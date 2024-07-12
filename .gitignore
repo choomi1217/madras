@@ -1,0 +1,23 @@
+# Back-end
+back-end/.gradle/
+back-end/build/
+back-end/.idea/
+
+# Front-end
+front-end/node_modules/
+front-end/.idea/
+
+# macOS system files
+.DS_Store
+
+
+# IDE specific files
+.idea/
+*.iml
+
+# Node modules
+node_modules/
+
+# Build directories
+build/
+dist/
